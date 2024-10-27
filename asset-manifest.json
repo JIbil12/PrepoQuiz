@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PrepoQuiz/static/css/main.a5face0d.css",
+    "main.js": "/PrepoQuiz/static/js/main.7e8d6b36.js",
+    "static/js/453.998cf881.chunk.js": "/PrepoQuiz/static/js/453.998cf881.chunk.js",
+    "index.html": "/PrepoQuiz/index.html",
+    "main.a5face0d.css.map": "/PrepoQuiz/static/css/main.a5face0d.css.map",
+    "main.7e8d6b36.js.map": "/PrepoQuiz/static/js/main.7e8d6b36.js.map",
+    "453.998cf881.chunk.js.map": "/PrepoQuiz/static/js/453.998cf881.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5face0d.css",
+    "static/js/main.7e8d6b36.js"
+  ]
+}
